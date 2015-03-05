@@ -28,7 +28,8 @@ font-family: 'Noto Serif', serif;}
 /* form */
 
 
-
+#associate_search tr td  {width:150px;   text-align: center;
+	}
 
 #associatesearch{
 width: 700px; margin: 25px 0px 50px 25px;
